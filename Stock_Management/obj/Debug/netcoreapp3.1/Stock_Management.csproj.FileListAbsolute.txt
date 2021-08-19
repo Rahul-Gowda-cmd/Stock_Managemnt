@@ -1,0 +1,15 @@
+C:\Users\HP\csharp\Stock_Management\Stock_Management\bin\Debug\netcoreapp3.1\Stock_Management.exe
+C:\Users\HP\csharp\Stock_Management\Stock_Management\bin\Debug\netcoreapp3.1\Stock_Management.deps.json
+C:\Users\HP\csharp\Stock_Management\Stock_Management\bin\Debug\netcoreapp3.1\Stock_Management.runtimeconfig.json
+C:\Users\HP\csharp\Stock_Management\Stock_Management\bin\Debug\netcoreapp3.1\Stock_Management.runtimeconfig.dev.json
+C:\Users\HP\csharp\Stock_Management\Stock_Management\bin\Debug\netcoreapp3.1\Stock_Management.dll
+C:\Users\HP\csharp\Stock_Management\Stock_Management\bin\Debug\netcoreapp3.1\Stock_Management.pdb
+C:\Users\HP\csharp\Stock_Management\Stock_Management\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\csharp\Stock_Management\Stock_Management\obj\Debug\netcoreapp3.1\Stock_Management.csproj.AssemblyReference.cache
+C:\Users\HP\csharp\Stock_Management\Stock_Management\obj\Debug\netcoreapp3.1\Stock_Management.AssemblyInfoInputs.cache
+C:\Users\HP\csharp\Stock_Management\Stock_Management\obj\Debug\netcoreapp3.1\Stock_Management.AssemblyInfo.cs
+C:\Users\HP\csharp\Stock_Management\Stock_Management\obj\Debug\netcoreapp3.1\Stock_Management.csproj.CoreCompileInputs.cache
+C:\Users\HP\csharp\Stock_Management\Stock_Management\obj\Debug\netcoreapp3.1\Stock_Management.csproj.CopyComplete
+C:\Users\HP\csharp\Stock_Management\Stock_Management\obj\Debug\netcoreapp3.1\Stock_Management.dll
+C:\Users\HP\csharp\Stock_Management\Stock_Management\obj\Debug\netcoreapp3.1\Stock_Management.pdb
+C:\Users\HP\csharp\Stock_Management\Stock_Management\obj\Debug\netcoreapp3.1\Stock_Management.genruntimeconfig.cache

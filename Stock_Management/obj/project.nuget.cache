@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q7SkTE75T+sTSRW9cosFQEJeOSwH97KmiEDroC7nWEf6dfSnS/6bclnO/69XJgQS2y7oN4DgxvUIT3yoOcVUww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\csharp\\Stock_Management\\Stock_Management\\Stock_Management.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
